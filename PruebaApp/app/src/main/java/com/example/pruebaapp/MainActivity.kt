@@ -9,5 +9,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         //Este será una creación de prueba
         //Para el git en reunion
+        //prueba 2
     }
 }
